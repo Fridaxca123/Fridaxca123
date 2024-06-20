@@ -1,9 +1,9 @@
 ## Frida Vargas 👾
-<ul>
-  <il> -🌱Estudio tercer semestre de ingenieria en tecnologias computacionales </il>
-  <il> -👀Me interesa principalmente el Web Developmente</il>
-  <il> -💬Los leguajes que manejo son: HTML, CSS, JavaScript, C++ y Python</il>
-</ul>
+
+- 🌱 Estudio tercer semestre de Ingeniería en Tecnologías Computacionales
+- 👀 Me interesa principalmente el Desarrollo Web
+- 💬 Los lenguajes que manejo son: HTML, CSS, JavaScript, C++ y Python
+
 
 
 <!--
