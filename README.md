@@ -1,4 +1,10 @@
-## Hi there 👋
+## Frida Vargas 👾
+<ul>
+  <il> -🌱Estudio tercer semestre de ingenieria en tecnologias computacionales </il>
+  <il> -👀Me interesa principalmente el Web Developmente</il>
+  <il> -💬Los leguajes que manejo son: HTML, CSS, JavaScript, C++ y Python</il>
+</ul>
+
 
 <!--
 **Fridaxca123/Fridaxca123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
