@@ -3,6 +3,7 @@
 - 🌱 Estudio tercer semestre de Ingeniería en Tecnologías Computacionales
 - 👀 Me interesa principalmente el Desarrollo Web
 - 💬 Los lenguajes que manejo son: HTML, CSS, JavaScript, C++ y Python
+- 📫  A01707168@tec.mx
 
 
 
