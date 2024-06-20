@@ -1,4 +1,4 @@
-## Frida Vargas 👾
+## Hola ! 👋👾
 
 - 🌱 Estudio tercer semestre de Ingeniería en Tecnologías Computacionales
 - 👀 Me interesa principalmente el Desarrollo Web
